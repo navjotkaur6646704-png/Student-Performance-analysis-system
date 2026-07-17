@@ -2,14 +2,17 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# --------------Show banner at the top------------
+st.image("banner.png", use_container_width=True)
+
+# Title
+st.title("🎓 Student Performance Analysis Dashboard")
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="Student Performance Dashboard",
     page_icon="🎓",
     layout="wide"
 )
-
-st.title("🎓 Student Performance Analysis Dashboard")
 
 # ---------------- UPLOAD CSV ----------------
 uploaded_file = st.file_uploader(
