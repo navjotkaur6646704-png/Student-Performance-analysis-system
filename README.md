@@ -108,10 +108,8 @@ python main.py
 
 **Navjot Kaur**
 
+B.Tech CSE Student | Python | Machine Learning | Data Analysis
+
 AI & Machine Learning Enthusiast
 
 Skilled in Python, Machine Learning, Data Analysis, Pandas, NumPy, Scikit-learn, and Streamlit.
-
-**Navjot Kaur**
-
-B.Tech CSE Student | Python | Machine Learning | Data Analysis
