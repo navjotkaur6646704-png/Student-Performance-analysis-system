@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# --------------Show banner at the top------------
-st.image("banner.png", use_container_width=True)
-
 # Title
 st.title("🎓 Student Performance Analysis Dashboard")
 # ---------------- PAGE CONFIG ----------------
